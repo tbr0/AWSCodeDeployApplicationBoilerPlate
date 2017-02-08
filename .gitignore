@@ -1,0 +1,9 @@
+.bash_history
+.bash_logout
+.viminfo
+.cache
+.pki
+.vim
+.lesshst
+build/
+var/
