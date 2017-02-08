@@ -5,5 +5,5 @@
 .pki
 .vim
 .lesshst
-build/
-var/
+#build/
+#var/
